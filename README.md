@@ -1,2 +1,2 @@
 # Osha
-İşSağlığı
+osha
